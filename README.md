@@ -15,7 +15,7 @@ Este repositório contém a resolução dos exercícios propostos na Atividade d
 
   ## 🛠️ Como foi desenvolvida
     - Os exercícios foram implementados em Python;
-    - Os arquivos .py mostram as soluções das atividades praticas.
+    - Os arquivos .py mostram as soluções das atividades práticas.
     
 
 # 📒 Agenda de Contatos (Projeto Final)
