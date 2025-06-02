@@ -1,6 +1,6 @@
 Este repositório contém a resolução dos exercícios propostos na Atividade de Estudo Dirigido realizada em 12/05/2025 e do Projeto Final realizado em 02/06/2025, conforme o cronograma da disciplina de Programação de Computadores.
 
-# Programacao de Computadores (Estudo Dirigido) 
+# Programação de Computadores (Estudo Dirigido) 
 
   Estas atividades compreendem e aplicam as principais estruturas de controle do fluxo de execução em algoritmos e programas, abordando:
 
